@@ -20,4 +20,4 @@ A premium, Nike-inspired sports gear landing page built with a focus on interact
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/niloyhakimai/sports-gear.git
